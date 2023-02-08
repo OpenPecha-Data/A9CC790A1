@@ -1,0 +1,19 @@
+id: A9CC790A1
+title: Tārānamaskāraikaviṃśatistotra
+type: translation
+pechas:
+- I9BA99F44
+- IC19CC7F7
+- IBBDADC29
+source_metadata:
+  languages:
+  - zh
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 16:08:24.745504
+  last_modified_at: 2023-02-08 16:08:24.745517
+alignment_to_base:
+  I9BA99F44/700A: 6F67
+  IC19CC7F7/7A73: 6F67
+  IBBDADC29/0658: 6F67
